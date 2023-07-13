@@ -1,4 +1,4 @@
-# Comprehensive Blockchain Development and Applications Course
+# Comprehensive Blockchain Development and Applications
 
 ## Table of Contents
 - [Section 1: Blockchain Fundamentals](#section-1-blockchain-fundamentals)
