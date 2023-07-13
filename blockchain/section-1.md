@@ -6,8 +6,6 @@
 
 ## Lesson 1.1: Introduction to Blockchain
 
-Content:
-
 ### What is blockchain?
 Blockchain is a decentralized digital ledger that records transactions across multiple computers or nodes in a transparent and secure manner. It consists of blocks, transactions, and nodes. The key characteristics of blockchain are decentralization, immutability, transparency, and security.
 
