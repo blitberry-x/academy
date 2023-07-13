@@ -31,3 +31,15 @@ ERC-721 tokens, also known as Non-Fungible Tokens (NFTs), have gained significan
 #### Non-fungible tokens and ownership proof
 
 This lesson explores the characteristics of non-fungible tokens and how they provide ownership proof in various domains, including digital art, gaming, and real-world assets.
+
+---
+
+Terminology:
+- Cryptocurrency: A digital or virtual currency that uses cryptography for security and operates independently of a central bank.
+- Blockchain ecosystem: The network of interconnected blockchains, cryptocurrencies, platforms, and applications that form the broader blockchain industry.
+- ERC-20 tokens: Tokens that adhere to the ERC-20 standard, a set of rules and guidelines for creating fungible tokens on the Ethereum blockchain.
+- Pegged tokens: Tokens that have their value pegged or linked to the value of another asset, such as a fiat currency or a commodity.
+- Value retention: The ability of a token to maintain a stable value or track the value of an underlying asset.
+- ERC-721 tokens: Tokens that adhere to the ERC-721 standard, a set of rules and guidelines for creating non-fungible tokens on the Ethereum blockchain.
+- Non-fungible tokens (NFTs): Unique digital assets that represent ownership or proof of authenticity of a specific item or piece of content.
+- Ownership proof: The ability of NFTs to provide verifiable proof of ownership for a digital asset, ensuring its uniqueness and authenticity.
