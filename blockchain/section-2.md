@@ -5,6 +5,7 @@
 #### Overview of popular cryptocurrencies
 
 This lesson provides an overview of popular cryptocurrencies like Bitcoin, Ethereum, and Solana. It explores their functionalities and their roles in the blockchain ecosystem.
+
 ### Lesson 2.1: Overview of Popular Cryptocurrencies
 
 Cryptocurrencies have gained significant attention and adoption in recent years. In this lesson, we will explore some of the most popular cryptocurrencies and understand their functionalities and roles within the blockchain ecosystem.
@@ -31,27 +32,60 @@ Understanding the functionalities and roles of these popular cryptocurrencies pr
 
 Delving deeper, this lesson explains how cryptocurrencies function on a lower level, including the underlying technologies and protocols that enable their operation.
 
-### Lesson 2.2: Exploring Tokens and NFTs
+### Lesson 2.2: How Cryptocurrencies Function on a Lower Level
+
+Cryptocurrencies operate on a complex system of underlying technologies and protocols that enable their functioning. In this lesson, we will delve deeper into how cryptocurrencies work on a lower level, exploring the fundamental components and mechanisms involved.
+
+#### Cryptographic Principles
+
+Cryptocurrencies rely on cryptographic principles to ensure security and integrity. This includes using cryptographic algorithms such as hashing functions and digital signatures. Hashing functions convert data into a fixed-size string of characters, ensuring data integrity and enabling verification. Digital signatures provide authentication and non-repudiation by using cryptographic key pairs.
+
+#### Blockchain Technology
+
+Cryptocurrencies are typically built on blockchain technology. A blockchain is a decentralized, distributed ledger that records all transactions across a network of computers. This technology provides transparency, immutability, and security for cryptocurrency transactions. Each transaction is grouped into a block, which is then added to the chain in a sequential and permanent manner.
+
+#### Consensus Mechanisms
+
+To achieve consensus and validate transactions, cryptocurrencies employ consensus mechanisms. The two most common mechanisms are Proof of Work (PoW) and Proof of Stake (PoS). Proof of Work requires miners to solve complex mathematical puzzles to validate transactions and add blocks to the blockchain. Proof of Stake relies on validators who hold a certain amount of cryptocurrency to validate transactions based on their stake in the network.
+
+#### Peer-to-Peer Networking
+
+Cryptocurrencies function on a peer-to-peer network architecture. This means that transactions are directly exchanged between participants without the need for intermediaries. Each participant, or node, maintains a copy of the blockchain and verifies transactions independently. This decentralized network ensures security, fault tolerance, and resilience against single points of failure.
+
+#### Wallets and Addresses
+
+Cryptocurrency wallets are used to store and manage digital assets. Wallets consist of cryptographic key pairs, including a public address and a private key. The public address serves as the identifier for receiving funds, while the private key is used to access and authorize transactions. Wallets can be software-based (e.g., desktop or mobile wallets) or hardware-based (e.g., hardware wallets) for enhanced security.
+
+Understanding how cryptocurrencies function on a lower level provides insights into the technologies, protocols, and mechanisms that enable their operation. This knowledge is crucial for grasping the underlying principles of blockchain and cryptocurrency systems.
+
+### Lesson 2.3: Exploring Tokens and NFTs
+
+### Lesson 2.3: Exploring Tokens and NFTs
+
+In this lesson, we will explore tokens and Non-Fungible Tokens (NFTs) within the blockchain context, understanding their use cases, functionalities, and unique properties.
 
 #### Tokens: coins vs. tokens
 
-This lesson explores the distinction between tokens and coins within the blockchain context. It covers their different use cases and functionalities.
+Tokens and coins are two distinct concepts in the blockchain world. This lesson will delve into their differences, exploring their respective use cases and functionalities. Coins, such as Bitcoin and Ethereum, are native cryptocurrencies that operate independently as a medium of exchange and store of value. On the other hand, tokens are digital assets built on existing blockchain platforms, serving specific purposes within their respective ecosystems. We will explore the diverse range of tokens and their applications in various industries.
 
 #### Introduction to ERC-20 tokens
 
-ERC-20 tokens are widely used in the blockchain space. This lesson introduces ERC-20 tokens, their standards, and their role in various applications.
+ERC-20 tokens are one of the most common token standards in the blockchain space. This lesson will provide an introduction to ERC-20 tokens, explaining their standards, features, and the benefits they offer. We will explore how ERC-20 tokens have become the foundation for numerous decentralized applications and discuss their role in enabling seamless interoperability between different platforms.
 
 #### Pegged tokens and value retention
 
-This lesson explains pegged tokens, which are tokens tied to the value of a particular asset. It covers how value retention is achieved and the benefits it brings.
+Pegged tokens are tokens that are tied to the value of an external asset, such as a fiat currency or a commodity. This lesson will explore how pegged tokens maintain their value through mechanisms such as collateralization or algorithmic stabilization. We will discuss the advantages of pegged tokens, including stability and accessibility, and examine their use cases in facilitating decentralized finance (DeFi) and cross-border transactions.
 
 #### Introduction to ERC-721 tokens (NFTs)
 
-ERC-721 tokens, also known as Non-Fungible Tokens (NFTs), have gained significant popularity. This lesson introduces the concept of NFTs, their uniqueness, and their role in the digital art and collectibles space.
+ERC-721 tokens, commonly known as Non-Fungible Tokens (NFTs), have gained significant popularity for their uniqueness and indivisibility. This lesson will introduce the concept of NFTs, explaining how they differ from fungible tokens. We will explore their role in the digital art and collectibles space, where NFTs have revolutionized ownership, provenance, and authenticity. Additionally, we will discuss the potential applications of NFTs beyond art, such as in gaming, virtual real estate, and intellectual property rights.
 
 #### Non-fungible tokens and ownership proof
 
-This lesson explores the characteristics of non-fungible tokens and how they provide ownership proof in various domains, including digital art, gaming, and real-world assets.
+Non-fungible tokens possess distinct properties that enable ownership proof and establish the uniqueness of digital assets. In this lesson, we will delve into the characteristics of NFTs, including their indivisibility and immutability. We will explore how NFTs provide verifiable ownership in various domains, such as digital art, gaming, and real-world assets. Understanding the concept of ownership proof is essential to grasp the value and potential of NFTs in creating new opportunities and disrupting traditional industries.
+
+
+
 
 ---
 
